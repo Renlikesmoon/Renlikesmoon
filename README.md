@@ -1,6 +1,6 @@
 <img src="https://giffiles.alphacoders.com/221/221253.gif" align="center">
-<h1 align="center">Hi 👋, I'm Darren</h1>
-<h3 align="center">Beginner Backend Dev From Indonesia</h3>
+<h1 align="center">Yoroshiku</h1>
+<h3 align="center">Watashi wa Namae to Ren Yamashiro, Boku ga Beginner Backend Dev From 🇮🇩Indonesia</h3>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
