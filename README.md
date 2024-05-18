@@ -5,7 +5,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
   </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adiwajshing&label=Profile%20views&color=0e75b6&style=flat" alt="adiwajshing" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeoneofficial&label=Profile%20Viewer&color=0e75b6&style=flat" alt="zeeoneofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renlikesmoon" alt="renlikesmoon" /></a> </p>
 
