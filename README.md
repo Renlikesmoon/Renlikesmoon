@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darren</h1>
 <h3 align="center">Beginner Backend Dev From Indonesia</h3>
 
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
+  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renlikesmoon&label=Profile%20views&color=0e75b6&style=flat" alt="renlikesmoon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renlikesmoon" alt="renlikesmoon" /></a> </p>
