@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darren</h1>
+<img src="https://gifdb.com/images/high/cool-anime-umaru-doma-on-computer-3g4u8tk71ih110rg.gif" align="center">
 <h3 align="center">Beginner Backend Dev From Indonesia</h3>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
