@@ -50,11 +50,3 @@ Info: Ini merupakan Biodata saya.
 
 ## Github Statistik
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renlikesmoon&show_icons=true&locale=en" alt="renlikesmoon" /></p>
-![](https://github-readme-stats.vercel.app/api?username=renlikesmoon &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=renlikesmoon &theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renlikesmoon &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=renlikesmoon &limit=5&theme=dark&combine_all_yearly_contributions=true)
