@@ -48,4 +48,13 @@ Info: Ini merupakan Biodata saya.
 <h3 align="left">Bahasa Yang di Pelajari:</h3>
 <p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
+## Github Statistik
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renlikesmoon&show_icons=true&locale=en" alt="renlikesmoon" /></p>
+![](https://github-readme-stats.vercel.app/api?username=renlikesmoon &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=renlikesmoon &theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=renlikesmoon &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=renlikesmoon &limit=5&theme=dark&combine_all_yearly_contributions=true)
