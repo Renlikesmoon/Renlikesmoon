@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFSTl7NsnSm4drCidDGigogF06In6fHqBWJg3H16Llrg&s" align="center">
+<img src="https://giffiles.alphacoders.com/221/221253.gif" align="center">
 <h1 align="center">Hi 👋, I'm Darren</h1>
 <h3 align="center">Beginner Backend Dev From Indonesia</h3>
 
