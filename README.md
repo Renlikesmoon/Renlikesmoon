@@ -9,8 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renlikesmoon" alt="renlikesmoon" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/b_HeThKej1EAAAAd/tenor.gif">
+## Perkenalan Diri & Biodata
+- 🌟 Nama : *Darren Ch.*
+- 🚀 Tanggal Lahir: **18 Des 2009**
+- 💼 Hobi : *Playing Game*
+- 💎 Team : **VolksCompagnie**
 
+Info: Ini merupakan Biodata saya.
+
+## Selengkapnya 
 - 🔭 Perusahan Ku yaitu **VolksCompagnie** Mengajar kan bahwa belajar itu butuh proses yang benar benar panjang.
 
 - 🌱 Kami dilatih sehari hari untuk mempelajari **Javascript** bagi Aplikasi yang kami Kembangkan 
