@@ -31,6 +31,8 @@ Use this if you are confused with my internal documentation..
 
 [Important](#Important) open important lines
 
+[Warn](#warn) read for safety
+
 [Node-Bot](#DeployBot) how to running a bot with termux
 
 [Go-Bot](#DeployBot2) how to running a  golang bot 
