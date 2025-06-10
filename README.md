@@ -35,7 +35,7 @@ For Business Contacts & Linked Accounts:
 
 <div align="center">
   <details>
-    <summary><b>Click to expand GitHub Stats</b></summary>
+    <summary><b>Click To Expand GitHub Stats</b></summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=renlikesmoon&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
     <br><br>
@@ -43,6 +43,14 @@ For Business Contacts & Linked Accounts:
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renlikesmoon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </details>
+</div>
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+  <details open>
+    <summary><b>GitHub Contributions</b></summary>
+    <br>
+    <p>This is my contributions off all time, for editing this bot, editing all of my repository..</p>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/renlikesmoon/renlikesmoon/output/github-contribution-grid-snake-dark.svg" />
+  </details>
 </div>
 
 
