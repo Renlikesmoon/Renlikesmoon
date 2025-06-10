@@ -23,6 +23,32 @@ For Business Contacts & Linked Accounts:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287756593163) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1J9YsAqg4E/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volkszcompany@gmail.com)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
+## Biography of Creator ##
+My Biography Data..
+
+```python
+ class developer:
+         username = 'Renata'
+                current_status = 'Learning'
+                biograph = [
+                            fullname : "Darren",
+                            adress   : "Indonesian",
+                            birthday : "Des - 18"
+                        ]
+
+        def adress():
+                return palu_indonesia()
+
+        def Hobby():
+                Reading manga/manhwa()
+                Watching anime romance()
+                Learning code JavaScript()
+```
+
+## Trophy of Github's ##
+This is my list trophy of Github..
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=renlikesmoon&theme=onedark)](https://github.com/renlikesmoon)
 
 ## Table of Contents ##
 Use this if you are confused with my internal documentation..
@@ -56,32 +82,7 @@ These are some things that are necessary or important to learn...
 [![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=4)](https://skillicons.dev)
 [![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows&perline=4)](https://skillicons.dev)
 
-## Biography of Creator ##
-My Biography Data..
 
-```python
- class developer:
-         username = 'Renata'
-                current_status = 'Learning'
-                biograph = [
-                            fullname : "Darren",
-                            adress   : "Indonesian",
-                            birthday : "Des - 18"
-                        ]
-
-        def adress():
-                return palu_indonesia()
-
-        def Hobby():
-                Reading manga/manhwa()
-                Watching anime romance()
-                Learning code JavaScript()
-```
-
-## Trophy of Github's ##
-This is my list trophy of Github..
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=renlikesmoon&theme=onedark)](https://github.com/renlikesmoon)
 
 ## My Projects List's ##
 This is my list project for all times, I have learned some programming languages too although they are difficult.
