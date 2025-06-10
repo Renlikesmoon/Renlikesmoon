@@ -110,6 +110,19 @@ pkg install nodejs && pkg install git && pkg install mc && pkg install yarn && p
 ```
 after installing some dependency packages you need to 
 ```
-npm i && npm start or npm i && pm2 start <yourfile>.js
+git clone https://github.com/username/repo && npm i
+```
+if your file folder already in sdcard, make sure it has been extracted first from the zip folder and `termux-setup-storage` first. follow this after done..
+```
+cd /sdcard/yourfolder && npm i
+```
+if `npm i` error you can use `yarn` to install modules..
+after npm i, run command below
+```
+npm start 
+```
+or
+```
+pm2 start index.js
 ```
 Now, your bot is running on the termux platform online without any interruption if you have high ram.
