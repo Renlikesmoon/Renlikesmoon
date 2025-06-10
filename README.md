@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+Aboard+Captain..++↓)](https://github.com/Renlikesmoon)<br>
 <img src="https://media1.tenor.com/m/-2RqkfHI_w4AAAAC/%E5%A4%9C%E6%AB%BB%E5%AE%B6%E5%A4%A7%E4%BD%9C%E6%88%B0-yozakura-san-chi-no-daisakusen.gif" align="center">
 
 # Introduce - Profile 
