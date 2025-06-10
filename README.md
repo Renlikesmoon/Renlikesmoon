@@ -21,6 +21,8 @@ Use this if you are confused with my internal documentation..
 
 [DeployBot](#DeployBot) how to running a bot with termux
 
+[DeployBot2(#DeployBot2) how to running a  golang bot 
+
 ## Important ##
 These are some things that are necessary or important to learn...
 
@@ -97,7 +99,7 @@ Here are some language tables that I have tried.....
 | ![Prolog](https://img.shields.io/badge/-Prolog-74283C?logoColor=white) | Prolog | ![Q#](https://img.shields.io/badge/-Q%23-9933CC?logo=microsoft&logoColor=white) | Q# |
 
 ## DeployBot
-This is how to run bot with using Baileys Dependencies in termux...
+This is how to run bot with using Baileys Dependencies in termux with nodejs...
 
 First you need to upgrade your packages **(Update & Upgrade)** 
 or type this command below 
@@ -126,3 +128,28 @@ or
 pm2 start index.js
 ```
 Now, your bot is running on the termux platform online without any interruption if you have high ram.
+
+## DeployBot2
+Run bot by Golang types
+
+1. **Step One:** download or gitclone some repository containts Golang.
+2. **Step Two:** Install Golang [herw](https://go.dev/doc/install)  >= 1.17.
+3. **Step Three:** Change the `.env` file with the necessary information (such as bot owner jid and bot name).
+4. **Step Four:** run terminal with command :
+```shell
+# to Open Files 
+cd NameBot
+# install dependencies
+go get all 
+# or
+go get ./src
+# run the script
+go run src/Bot.go
+# or
+go build src/Bot.go
+./Bot #for linux
+Bot.exe #for windows
+```
+5. **Step Five:** Open WhatsApp then scan the QR code from the terminal..
+
+and your bot succes' to started...
