@@ -153,3 +153,6 @@ Bot.exe #for windows
 5. **Step Five:** Open WhatsApp then scan the QR code from the terminal..
 
 and your bot succes' to started...
+
+## Renlikesmoon
+<img src="https://github.com/Renlikesmoon.png" width="80" height="80" style="border-radius: 50%;" />
