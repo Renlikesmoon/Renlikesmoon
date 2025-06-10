@@ -16,7 +16,7 @@ For Business Contacts & Linked Accounts:
 
 ## Table of Contents ##
 
-[Important] (Important)
+[Important](#Important)
 ## Important ##
 These are some things that are necessary or important to learn...
 
