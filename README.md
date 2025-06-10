@@ -161,5 +161,5 @@ and your bot succes' to started...
 ## Thank4
 Thanks for those user who already supports me until now..
 
-<img src="https://github.com/Renlikesmoon.png" width="100" height="100" style="border-radius: 50%;" />
+<img src="https://github.com/Piahn.png" width="100" height="100" style="border-radius: 50%;" />
 Piahn Wijaya 
