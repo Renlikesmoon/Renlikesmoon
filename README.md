@@ -23,6 +23,14 @@ For Business Contacts & Linked Accounts:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287756593163) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1J9YsAqg4E/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volkszcompany@gmail.com)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+  <details open>
+    <summary><b>GitHub Contributions</b></summary>
+    <br>
+    <p>This is my contributions off all time, for editing this bot, editing all of my repository..</p>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake-dark.svg" />
+  </details>
+</div>
 <div align="center">
   <details open>
     <summary><b> Profile Visitors</b></summary>
@@ -31,14 +39,6 @@ For Business Contacts & Linked Accounts:
       <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
     </a>
   </details>
-</div>
-<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
-  <details open>
-    <summary><b>GitHub Contributions</b></summary>
-    <br>
-    <p>This is my contributions off all time, for editing this bot, editing all of my repository..</p>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake-dark.svg" />
-  </details>
 </div>
 <div align="center">
   <details>
