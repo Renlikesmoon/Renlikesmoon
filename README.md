@@ -39,7 +39,7 @@ Use this if you are confused with my internal documentation..
 
 
 ## Tags Github ##
-[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation) [![SyarzzNF](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/SyarzzNF)[![Vanzzketce](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/vanzzkece)[![Piahn](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Piahn)
+[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation) [![SyarzzNF](https://img.shields.io/badge/SyarzzNF-black?style=flat&logo=github&logoColor=white)](https://github.com/SyarzzNF)[![Vanzzketce](https://img.shields.io/badge/Vanzzketce-black?style=flat&logo=github&logoColor=white)](https://github.com/vanzzkece)[![Piahn](https://img.shields.io/badge/Piahn-black?style=flat&logo=github&logoColor=white)](https://github.com/Piahn)
 
 
 > Don't forget to follow them, friends, they are my best friend and my master...
@@ -183,27 +183,27 @@ Thanks for those user who already supports me until now..
 **Piahn Wijaya**
 as someone who has taught me to make a WhatsApp bot until now, He is also the owner of PihzzBot..
 
- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
+ [![Github](https://img.shields.io/badge/Piahnz-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
 
 <img src="https://github.com/Volks-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
 
 **Volks Federation**
 as an organization that made me develop this far.. and teach me how to developing bots.
 
- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+ [![Github](https://img.shields.io/badge/VolksComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
 
  <img src="https://github.com/SyarzzNF.png" width="100" height="100" style="border-radius: 50%;" />
 
 **SyarzzHaruu**
 as an former developer and developer of shizuno company, for teach me how to developing rest api, and teach me about backend..
 
- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyarzzNF)
+ [![Github](https://img.shields.io/badge/SyarzzNF-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyarzzNF)
 
 <img src="https://github.com/vanzzkece.png" width="100" height="100" style="border-radius: 50%;" />
 
 **Vanzzketceh**
 as a former developer too, he helped a lot in developing my WhatsApp bot. and other developments too...
 
- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanzzkece)
+ [![Github](https://img.shields.io/badge/Vanzzketceh-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanzzkece)
 
 I am very grateful to the great people above who have helped me to build my own bot from 0 until now..
