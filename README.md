@@ -93,3 +93,8 @@ Here are some language tables that I have tried.....
 | ![Hack](https://img.shields.io/badge/-Hack-8593C6?logo=hack&logoColor=white) | Hack | ![Smalltalk](https://img.shields.io/badge/-Smalltalk-596E9E?logoColor=white) | Smalltalk |
 | ![Zig](https://img.shields.io/badge/-Zig-F7A41D?logo=zig&logoColor=black) | Zig | ![Tcl](https://img.shields.io/badge/-Tcl-E04E39?logoColor=white) | Tcl |
 | ![Prolog](https://img.shields.io/badge/-Prolog-74283C?logoColor=white) | Prolog | ![Q#](https://img.shields.io/badge/-Q%23-9933CC?logo=microsoft&logoColor=white) | Q# |
+
+## DeployBot
+This is how to run bot with using Baileys Dependencies...
+
+
