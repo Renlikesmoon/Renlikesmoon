@@ -158,21 +158,33 @@ Bot.exe #for windows
 
 and your bot succes' to started...
 
-## Thank4
+## Thanks4
 Thanks for those user who already supports me until now..
 
 <img src="https://github.com/Piahn.png" width="100" height="100" style="border-radius: 50%;" />
 
-Piahn Wijaya
+**Piahn Wijaya**
 as someone who has taught me to make a WhatsApp bot until now, He is also the owner of PihzzBot..
 
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
 
 <img src="https://github.com/Volks-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
 
-Volks Federation
+**Volks Federation**
 as an organization that made me develop this far.. and teach me how to developing bots.
 
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
- 
- 
+
+ <img src="https://github.com/Volks-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
+
+**SyarzzHaruu**
+as an former developer and developer of shizuno company, for teach me how to developing rest api, and teach me about backend
+
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+
+<img src="https://github.com/Volks-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
+
+**Vanzzketceh**
+as a former developer too, he helped a lot in developing my WhatsApp bot. and other developments too...
+
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
