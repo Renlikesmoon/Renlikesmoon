@@ -45,6 +45,18 @@ My Biography Data..
                 Learning code JavaScript()
 ```
 
+## My Projects List's ##
+This is my list project for all times, I have learned some programming languages too although they are difficult.
+
+| Projects     | Status | Language     | Description                            |
+|-----------|---------|----------|----------------------------------------|
+| RPG WhatsappBot  | `done`  | `Javascript` | create an rpg whatsapp bot using nodejs and library whiskeysockets.  |
+| RestApi's  | `learning`  | `Javascript & HTML & Nodejs` | still learning about how to make RestApi. |
+| Bot-Golang    | `learning`  | `Golang` | create an golang whatsapp bot using whatsmeow library.     |
+| Websites   | `learning`  | `Javascript & HTML` | still learning how to make an personal website.        |
+| MongoDB-Supp   | `done` | `MongoDB & Nodejs` | creating an lightweight database using mongo atlas.   |
+| BotWhatsapp Python | `learning` | `Python` | currently learning some stuff.     |
+
 ## Trophy of Github's ##
 This is my list trophy of Github..
 
@@ -82,19 +94,6 @@ These are some things that are necessary or important to learn...
 [![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=4)](https://skillicons.dev)
 [![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows&perline=4)](https://skillicons.dev)
 
-
-
-## My Projects List's ##
-This is my list project for all times, I have learned some programming languages too although they are difficult.
-
-| Projects     | Status | Language     | Description                            |
-|-----------|---------|----------|----------------------------------------|
-| RPG WhatsappBot  | `done`  | `Javascript` | create an rpg whatsapp bot using nodejs and library whiskeysockets.  |
-| RestApi's  | `learning`  | `Javascript & HTML & Nodejs` | still learning about how to make RestApi. |
-| Bot-Golang    | `learning`  | `Golang` | create an golang whatsapp bot using whatsmeow library.     |
-| Websites   | `learning`  | `Javascript & HTML` | still learning how to make an personal website.        |
-| MongoDB-Supp   | `done` | `MongoDB & Nodejs` | creating an lightweight database using mongo atlas.   |
-| BotWhatsapp Python | `learning` | `Python` | currently learning some stuff.     |
 
 ## Table of Language  ##
 Here are some language tables that I have tried.....
