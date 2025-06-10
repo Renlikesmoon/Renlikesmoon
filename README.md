@@ -10,7 +10,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
 
 **Renlikesmoon:**
-Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
+Hi There!, my name is Darren as Ren Aldridge. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
 I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known as the Volks bot. I'm here working as **Lead Developer of HazakuraComp**, My job is to fix problems related to bot handling.
 
@@ -211,3 +211,8 @@ as a former developer too, he helped a lot in developing my WhatsApp bot. and ot
  [![Github](https://img.shields.io/badge/Vanzzketceh-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanzzkece)
 
 I am very grateful to the great people above who have helped me to build my own bot from 0 until now..
+
+## Warn
+Please read the information below for more details about this account.
+
+> This account belongs to Darren and is used for official purposes only. Any unauthorized access, misuse, or tampering with the account's content will be strictly dealt with according to the applicable laws and regulations. Please be aware that all activities on this account are monitored and recorded. If you are not authorized to access this account, please do not attempt to do so.
