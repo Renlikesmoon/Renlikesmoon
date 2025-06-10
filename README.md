@@ -164,6 +164,6 @@ Thanks for those user who already supports me until now..
 <img src="https://github.com/Piahn.png" width="100" height="100" style="border-radius: 50%;" />
 
 Piahn Wijaya
-as someone who has taught me to make a WhatsApp bot until now [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
+as someone who has taught me to make a WhatsApp bot until now [![Piahn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
  
  
