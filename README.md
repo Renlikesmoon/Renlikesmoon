@@ -183,7 +183,7 @@ as an organization that made me develop this far.. and teach me how to developin
  <img src="https://github.com/SyarzzNF.png" width="100" height="100" style="border-radius: 50%;" />
 
 **SyarzzHaruu**
-as an former developer and developer of shizuno company, for teach me how to developing rest api, and teach me about backend
+as an former developer and developer of shizuno company, for teach me how to developing rest api, and teach me about backend..
 
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyarzzNF)
 
