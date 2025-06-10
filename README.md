@@ -32,6 +32,8 @@ Use this if you are confused with my internal documentation..
 
 [Go-Bot](#DeployBot2) how to running a  golang bot 
 
+> Use it to help you in searching for the material or documentation I provide in this Readme.
+
 ## Important ##
 These are some things that are necessary or important to learn...
 
