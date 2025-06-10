@@ -16,7 +16,9 @@ For Business Contacts & Linked Accounts:
 
 ## Table of Contents ##
 
-[Important](#Important)
+[Important](#Important) open important lines
+[Biography](#Biography of Creator) open Biography about me
+
 ## Important ##
 These are some things that are necessary or important to learn...
 
