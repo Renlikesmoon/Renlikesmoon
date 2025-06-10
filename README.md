@@ -16,8 +16,8 @@ I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known 
 
 Second Account & Company:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shirayukino)
+[![Github](https://img.shields.io/badge/VolksComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+[![Github](https://img.shields.io/badge/Shirayukino-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shirayukino)
 
 For Business Contacts & Linked Accounts:
 
