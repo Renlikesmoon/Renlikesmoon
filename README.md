@@ -166,7 +166,7 @@ Thanks for those user who already supports me until now..
 Piahn Wijaya
 as someone who has taught me to make a WhatsApp bot until now, He is also the owner of PihzzBot.. [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
 
-<img src="https://github.com/Volks&-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
+<img src="https://github.com/Volks-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
 
 Volks Federation
 as an organization that made me develop this far.. [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
