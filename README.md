@@ -95,7 +95,19 @@ Here are some language tables that I have tried.....
 | ![Prolog](https://img.shields.io/badge/-Prolog-74283C?logoColor=white) | Prolog | ![Q#](https://img.shields.io/badge/-Q%23-9933CC?logo=microsoft&logoColor=white) | Q# |
 
 ## DeployBot
-This is how to run bot with using Baileys Dependencies...
+This is how to run bot with using Baileys Dependencies in termux...
 
-First you need to install **(FFMpeg, Imagemagick, Nodejs and Git)**
-
+First you need to upgrade your packages **(Update & Upgrade)** 
+or type this command below 
+```
+pkg upgrade -y && pkg update -y
+```
+after update and upgrade the packages, you need to install **(FFMPeg, Imagemagick, Git, Mc, yarn, pm2, Nodejs)**
+```
+pkg install nodejs && pkg install git && pkg install mc && pkg install yarn && pkg install pm2 && pkg install imagemagick && pkg install ffmpeg
+```
+after installing some dependency packages you need to 
+```
+npm i && npm start or npm i && pm2 start <yourfile>.js
+```
+Now, your bot is running on the termux platform online without any interruption if you have high ram.
