@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+Welcome;Thanks+for+coming+to+my+bio++↓)](https://github.com/Renlikesmoon)<br>
 <img src="https://media1.tenor.com/m/-2RqkfHI_w4AAAAC/%E5%A4%9C%E6%AB%BB%E5%AE%B6%E5%A4%A7%E4%BD%9C%E6%88%B0-yozakura-san-chi-no-daisakusen.gif" align="center">
 
-# Introduce - Profile 
+# Introduce - Profile #
 
 Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
@@ -11,10 +11,7 @@ For Business Contacts & Linked Accounts:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287756593163) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1J9YsAqg4E/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volkszcompany@gmail.com)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-#🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=renlikesmoon&theme=onedark)](https://github.com/renlikesmoon)
-
-## Important 
+## Important ##
 These are some things that are necessary or important to learn...
 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs&perline=4)](https://skillicons.dev)
@@ -45,7 +42,12 @@ My Biography Data..
                 Learning code JavaScript()
 ```
 
-## My Projects List's
+## Trophy of Github's ##
+This is my list trophy of Github..
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=renlikesmoon&theme=onedark)](https://github.com/renlikesmoon)
+
+## My Projects List's ##
 This is my list project for all times, I have learned some programming languages too although they are difficult.
 
 | Projects     | Status | Language     | Description                            |
