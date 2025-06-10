@@ -19,9 +19,9 @@ Use this if you are confused with my internal documentation..
 
 [Important](#Important) open important lines
 
-[DeployBot](#DeployBot) how to running a bot with termux
+[Node-Bot](#DeployBot) how to running a bot with termux
 
-[DeployBot2](#DeployBot2) how to running a  golang bot 
+[Go-Bot](#DeployBot2) how to running a  golang bot 
 
 ## Important ##
 These are some things that are necessary or important to learn...
@@ -133,7 +133,7 @@ Now, your bot is running on the termux platform online without any interruption 
 Run bot by Golang types
 
 1. **Step One:** download or gitclone some repository containts Golang.
-2. **Step Two:** Install Golang [herw](https://go.dev/doc/install)  >= 1.17.
+2. **Step Two:** Install Golang [here](https://go.dev/doc/install)  >= 1.17.
 3. **Step Three:** Change the `.env` file with the necessary information (such as bot owner jid and bot name).
 4. **Step Four:** run terminal with command :
 ```shell
