@@ -175,7 +175,7 @@ Bot.exe #for windows
 
 and your bot succes' to started...
 
-## Thanks4
+<h1 align="center">Thanks4</h1>
 Thanks for those user who already supports me until now..
 
 <img src="https://github.com/Piahn.png" width="100" height="100" style="border-radius: 50%;" />
