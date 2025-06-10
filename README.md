@@ -26,6 +26,9 @@ For Business Contacts & Linked Accounts:
 ## Table of Contents ##
 Use this if you are confused with my internal documentation..
 
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat&logo=github&logoColor=white)](https://github.com/renlikesmoon)
+
+
 [Important](#Important) open important lines
 
 [Node-Bot](#DeployBot) how to running a bot with termux
@@ -33,9 +36,6 @@ Use this if you are confused with my internal documentation..
 [Go-Bot](#DeployBot2) how to running a  golang bot 
 
 > Use it to help you in searching for the material or documentation I provide in this Readme.
-
-## Made ##
-[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
 
 ## Important ##
 These are some things that are necessary or important to learn...
