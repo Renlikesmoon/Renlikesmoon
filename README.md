@@ -38,9 +38,11 @@ Use this if you are confused with my internal documentation..
 > Use it to help you in searching for the material or documentation I provide in this Readme.
 
 
-## Tags ##
-[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+## Tags Github ##
+[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation) [![SyarzzNF](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/SyarzzNF)[![Vanzzketce](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/vanzzkece)[![Piahn](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Piahn)
 
+
+> Don't forget to follow them, friends, they are my best friend and my master...
 
 ## Important ##
 These are some things that are necessary or important to learn...
