@@ -1,7 +1,7 @@
-# Introduce
+# Introduce - Profile 
 Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
-## Biography ##
+## Biography of Creator ##
 ```python
  class developer:
          username = 'Renata'
@@ -21,9 +21,10 @@ Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. 
                 Learning code JavaScript()
 ```
 
-## Projects List's
-This is my list project for all times..
-| Task     | Status | Type     | Description                            |
+## My Projects List's
+This is my list project for all times, I have learned some programming languages too although they are difficult.
+
+| Projects     | Status | Language     | Description                            |
 |-----------|---------|----------|----------------------------------------|
 | RPG WhatsappBot  | `done`  | `Javascript` | create an rpg whatsapp bot using nodejs and library whiskeysockets.  |
 | RestApi's  | `learning`  | `Javascript & HTML & Nodejs` | still learning about how to make RestApi. |
