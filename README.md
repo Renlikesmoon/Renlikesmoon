@@ -21,7 +21,7 @@ Use this if you are confused with my internal documentation..
 
 [DeployBot](#DeployBot) how to running a bot with termux
 
-[DeployBot2(#DeployBot2) how to running a  golang bot 
+[DeployBot2](#DeployBot2) how to running a  golang bot 
 
 ## Important ##
 These are some things that are necessary or important to learn...
