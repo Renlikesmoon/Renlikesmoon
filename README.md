@@ -49,7 +49,7 @@ For Business Contacts & Linked Accounts:
     <summary><b>GitHub Contributions</b></summary>
     <br>
     <p>This is my contributions off all time, for editing this bot, editing all of my repository..</p>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/renlikesmoon/renlikesmoon/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake-dark.svg" />
   </details>
 </div>
 
