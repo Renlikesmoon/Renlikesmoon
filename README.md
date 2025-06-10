@@ -179,6 +179,7 @@ and your bot succes' to started...
 Thanks for those user who already supports me until now, there is best developer that I have ever met..
 
 
+
 <img src="https://github.com/Piahn.png" width="100" height="100" style="border-radius: 50%;" />
 
 **Piahn Wijaya**
