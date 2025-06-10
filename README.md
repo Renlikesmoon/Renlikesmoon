@@ -4,7 +4,7 @@
 # Introduce - Profile #
 
 
-<img src="https://github.com/Renlikesmoon.png" width="80" height="80" style="border-radius: 70%;" />
+<img src="https://github.com/Renlikesmoon.png" width="100" height="100" style="border-radius: 50%;" />
 
 ![GitHub followers](https://img.shields.io/github/followers/Renlikesmoon?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
