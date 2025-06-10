@@ -44,6 +44,13 @@ For Business Contacts & Linked Accounts:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renlikesmoon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </details>
 </div>
+<div align="center">
+  <details open>
+    <summary><b>🐍 GitHub Contribution</b></summary>
+    <br>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Renlikesmoon/Renlikesmoon/output/github-contribution-grid-snake.svg" />
+  </details>
+</div>
 
 
 ## Biography of Creator ##
