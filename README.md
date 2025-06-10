@@ -6,6 +6,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/Renlikesmoon?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
 
+<img src="https://github.com/Renlikesmoon.png" width="80" height="80" style="border-radius: 50%;" />
+
+**Renlikesmoon**
 Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
 I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known as the Volks bot. I'm here working as **Lead Developer of HazakuraComp**, My job is to fix problems related to bot handling.
@@ -153,6 +156,3 @@ Bot.exe #for windows
 5. **Step Five:** Open WhatsApp then scan the QR code from the terminal..
 
 and your bot succes' to started...
-
-## Renlikesmoon
-<img src="https://github.com/Renlikesmoon.png" width="80" height="80" style="border-radius: 50%;" />
