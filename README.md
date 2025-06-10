@@ -34,6 +34,9 @@ Use this if you are confused with my internal documentation..
 
 > Use it to help you in searching for the material or documentation I provide in this Readme.
 
+## Made ##
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+
 ## Important ##
 These are some things that are necessary or important to learn...
 
