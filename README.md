@@ -15,13 +15,7 @@ For Business Contacts & Linked Accounts:
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,vite,nextjs&perline=4)](https://skillicons.dev)
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,php,cpp)](https://skillicons.dev)
 [![Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs,express)](https://skillicons.dev)
-
-#### Database
-
 [![My Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&perline=4)](https://skillicons.dev)
-
-#### Tools & Platforms
-
 [![My Tools & Platforms Skills](https://skillicons.dev/icons?i=git,cloudflare,npm,vscode,visualstudio,postman,ubuntu,windows&perline=4)](https://skillicons.dev)
 ## Biography of Creator ##
 ```python
