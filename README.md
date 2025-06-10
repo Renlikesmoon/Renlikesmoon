@@ -48,9 +48,14 @@ For Business Contacts & Linked Accounts:
   <details open>
     <summary><b>🐍 GitHub Contribution</b></summary>
     <br>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Renlikesmoon/Renlikesmoon/output/github-contribution-grid-snake.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https:                                                                                          
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
+    </picture>
   </details>
 </div>
+
 
 
 ## Biography of Creator ##
