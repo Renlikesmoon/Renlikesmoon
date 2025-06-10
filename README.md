@@ -42,6 +42,13 @@ My Biography Data..
                 Learning code JavaScript()
 ```
 
+## Statistic of Github ##
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Renlikesmoon?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Renlikesmoon?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Renlikesmoon?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
+
 ## Trophy of Github's ##
 This is my list trophy of Github..
 
