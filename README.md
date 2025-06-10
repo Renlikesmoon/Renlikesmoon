@@ -37,6 +37,11 @@ Use this if you are confused with my internal documentation..
 
 > Use it to help you in searching for the material or documentation I provide in this Readme.
 
+
+## Tags ##
+[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-blue?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+
+
 ## Important ##
 These are some things that are necessary or important to learn...
 
