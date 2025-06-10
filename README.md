@@ -39,7 +39,7 @@ Use this if you are confused with my internal documentation..
 
 
 ## Tags ##
-[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-blue?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+[![Volks Compagnie](https://img.shields.io/badge/Volks%20Compagnie-black?style=flat&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
 
 
 ## Important ##
