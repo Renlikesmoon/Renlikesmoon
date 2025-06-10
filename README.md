@@ -3,6 +3,8 @@
 
 # Introduce - Profile #
 
+![GitHub followers](https://img.shields.io/github/followers/Renlikesmoon?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
 Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. Nice to meet y'all...
 
 I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known as the Volks bot. I'm here working as **Lead Developer of HazakuraComp**, My job is to fix problems related to bot handling.
@@ -41,13 +43,6 @@ My Biography Data..
                 Watching anime romance()
                 Learning code JavaScript()
 ```
-
-## Statistic of Github ##
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Renlikesmoon?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Renlikesmoon?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Renlikesmoon?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Renlikesmoon?style=social)
 
 ## Trophy of Github's ##
 This is my list trophy of Github..
