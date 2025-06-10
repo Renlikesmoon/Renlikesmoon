@@ -6,6 +6,9 @@ Hi There!, my name is Darren. I was a Newbie Backend Developer from Indonesia.. 
 
 I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known as the Volks bot. I'm here working as **Lead Developer of HazakuraComp**, My job is to fix problems related to bot handling.
 
+For Business Contacts:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287756593163)
+
 ## Biography of Creator ##
 ```python
  class developer:
