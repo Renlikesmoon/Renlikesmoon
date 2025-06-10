@@ -219,3 +219,13 @@ I am very grateful to the great people above who have helped me to build my own 
 Please read the information below for more details about this account.
 
 > This account belongs to Darren and is used for official purposes only. Any unauthorized access, misuse, or tampering with the account's content will be strictly dealt with according to the applicable laws and regulations. Please be aware that all activities on this account are monitored and recorded. If you are not authorized to access this account, please do not attempt to do so.
+
+<div align="center">
+  <details open>
+    <summary><b> Profile Visitors</b></summary>
+    <br>
+    <a href="https://www.getloli.com/" target="_blank">
+      <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
+    </a>
+  </details>
+</div>
