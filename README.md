@@ -16,7 +16,7 @@ I am known as a WhatsApp bot staff, namely the Hazakura bot or previously known 
 
 Second Account & Company:
 
-[![Github](https://img.shields.io/badge/VolksComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+[![Github](https://img.shields.io/badge/HazakuraComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HazakuraComp)
 [![Github](https://img.shields.io/badge/Shirayukino-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shirayukino)
 
 For Business Contacts & Linked Accounts:
@@ -222,12 +222,12 @@ as someone who has taught me to make a WhatsApp bot until now, He is also the ow
 
  [![Github](https://img.shields.io/badge/Piahnz-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piahn)
 
-<img src="https://github.com/Volks-Compagnie-Federation.png" width="100" height="100" style="border-radius: 50%;" />
+<img src="https://github.com/HazakuraComp.png" width="100" height="100" style="border-radius: 50%;" />
 
-**Volks Federation**
+**Hazakura Federation**
 as an organization that made me develop this far.. and teach me how to developing bots.
 
- [![Github](https://img.shields.io/badge/VolksComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Volks-Compagnie-Federation)
+ [![Github](https://img.shields.io/badge/HazakuraComp-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HazakuraComp)
 
  <img src="https://github.com/SyarzzNF.png" width="100" height="100" style="border-radius: 50%;" />
 
